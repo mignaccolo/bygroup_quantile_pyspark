@@ -1,2 +1,3 @@
 # bygroup_quantile_pyspark
-Implement the calculation of the quantile/s of a numeric variable when sample can be categorized by a "class" variables  
+Implement the calculation of the quantile/s of a numeric variable when the samples can be categorized via a class/bygroup 
+variable  
